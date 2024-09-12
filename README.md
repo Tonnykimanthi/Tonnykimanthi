@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello there, Iam Tonny, a Fullstack web developer.
+🔭 Hello there, I am Tonny, a Fullstack web developer.
 
 
 ## 🌐 Socials:
